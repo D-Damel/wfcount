@@ -39,7 +39,7 @@ Some introductory information.
 
    Here *wfcount* (located in *C:\test* folder) counted filed in *C:\www\html\backups* folder and takeoff 2 files (sometimes it happen if in target folder located files which no needed for counting).
 
-   2. Output 
+2. Output 
 
    ```bash
    C:\test\wfcount C:\www\html\backups 2
