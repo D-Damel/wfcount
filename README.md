@@ -2,6 +2,7 @@
 
 *wfcount* program wrote on C++ for counting files in target folder.
 It's returns total quantity of files. You can correct total quantity by argument for taking off some files from counting process. 
+For this programm I used *dirent.h* library from https://github.com/tronkko/dirent/tree/master
 
 > ** This version of *wfcount* works just with Windows OS **
 >
